@@ -1,0 +1,14 @@
+<2jec>
+   <magistrado>
+      <nome>GLAGISTON LUIS NASCIMENTO CUTRIM</nome>
+      <sexo>M</sexo>
+      <titular>sim</titular>
+   </magistrado>
+   <magistrado>
+      <nome>ANA BEATRIZ JORGE CARVALHO MAIA</nome>
+      <sexo>F</sexo>
+      <titular>nao
+         <vara>2ª Vara Cível da Comarca de Imperatriz</vara>
+      </titular>
+   </magistrado>
+</2jec>
