@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <jec2>
    <magistrado>
+      <ID>1</ID>
       <nome>GLAGISTON LUIS NASCIMENTO CUTRIM</nome>
       <sexo>M</sexo>
       <titular>sim</titular>
    </magistrado>
    <magistrado>
+      <ID>2</ID>
       <nome>ANA BEATRIZ JORGE CARVALHO MAIA</nome>
       <sexo>F</sexo>
       <titular>nao</titular>
